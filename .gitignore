@@ -1,3 +1,4 @@
 .env
 extract/
 patents_with_summary.csv
+patents_19802010.csv
